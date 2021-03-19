@@ -1,0 +1,16 @@
+body{
+    margin: 0%;
+    overflow: hidden;
+    background: rgb(20, 25,45);
+}
+a {
+    font-family: arial;
+    border-radius: 3px;
+    padding: 9px;
+    background: red;
+    text-decoration: none;
+    color: white;
+    position: fixed;
+    right: 50%;
+    transform: translate(50%, 0);
+}
